@@ -1,0 +1,22 @@
+/*
+ Theme Name:   Shapely Child
+ Theme URI:    http://wordpress49.base/shapely-child
+ Description:  Shapely Child Theme
+ Author:       Eclipse Software
+ Author URI:   http://wordpress49.base/
+ Template:     shapely
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  shapely-child
+ */
+
+/** Child theme style**/
+.form-control > input {
+	height: 21px;
+}
+
+#eclipse_recruitment_profile_form .form-field {
+	overflow: hidden;
+}
